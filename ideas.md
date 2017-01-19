@@ -3,7 +3,8 @@
 * A tool to transfer music playlists between music services (that is free)
     - Some tools exist already that cost money
 * A chit tracking tools for students working on projects in software engineering
-    - or a tool to match and track projects and helpers, focus on different methods of distribute chits(three solutions).
+   
+    - or a tool to match and track projects and helpers, focus on different methods of distribute chits(three solutions).
 * Finding parking in downtown Raleigh
 * unsearchable PDFs that are typed
 * building software on across OS platforms
