@@ -9,7 +9,7 @@
 * git explanation and tutorial
 * latex tool that works with google drive.
 * URL shortener that works with arbitrary addresses (your website rather than tiny.cc)
-
+* a tool to manage events on calendar, design different methods to rearrange events.
 * tool to post slack messages as github issues
     - I think this is one solution, but maybe the idea should be getting the messages from slack for mining
     - [Github issues api](https://developer.github.com/v3/issues/)
