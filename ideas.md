@@ -13,3 +13,4 @@
 * tool to post slack messages as github issues
     - I think this is one solution, but maybe the idea should be getting the messages from slack for mining
     - [Github issues api](https://developer.github.com/v3/issues/)
+    - [Slack custom integrations](https://api.slack.com/custom-integrations)
